@@ -16,5 +16,5 @@ You can find some of my projects here on my GitHub — feel free to explore!
 
 *Feel free to contact me.*
 
-- LinkedIn: [Your LinkedIn URL]([https://www.linkedin.com/](https://www.linkedin.com/in/tiago-coelho-0726022b3/))  
+- LinkedIn: [My LinkedIn Profile]([https://www.linkedin.com/in/o-teu-linkedin/](https://www.linkedin.com/in/tiago-coelho-0726022b3/))
 - Email: tiagoaraujocoelho@gmail.com
