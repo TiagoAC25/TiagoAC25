@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**TiagoAC25/TiagoAC25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist and AI Engineer passionate about turning data into intelligent solutions.  
 
-Here are some ideas to get you started:
+I'm finishing my Master's degree in Data Science and I like to explore a bit of everything in the field from AI and machine learning to data engineering, analytics, and automation.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning broadly, experimenting with new ideas, and building things that help me grow both technically and creatively.
+
+### ✨ About Me
+- Curious by nature, I study across multiple areas of data and technology  
+- Always working on new projects to improve my skills  
+- Passionate about understanding how things work and turning ideas into something useful 
+
+### 📂 Projects
+You can find some of my projects here on my GitHub — feel free to explore!
+
+*Feel free to contact me.*
