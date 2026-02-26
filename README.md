@@ -6,13 +6,13 @@ I'm finishing my Master's degree in Data Science and I like to explore a bit of 
 
 I enjoy learning broadly, experimenting with new ideas, and building things that help me grow both technically and creatively.
 
-### ✨ About Me
+### About Me
 - Curious by nature, I study across multiple areas of data and technology  
 - Always working on new projects to improve my skills  
 - Passionate about understanding how things work and turning ideas into something useful 
 
 ### 📂 Projects
-You can find some of my projects here on my GitHub — feel free to explore!
+You can find some of my projects here on my GitHub; feel free to explore!
 
 *Feel free to contact me.*
 
