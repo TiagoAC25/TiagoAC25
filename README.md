@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Data Scientist and AI Engineer passionate about turning data into intelligent solutions.  
+I'm an AI/ML Engineer building intelligent systems and data-driven solutions.  
 
 I'm finishing my Master's degree in Data Science and I like to explore a bit of everything in the field from AI and machine learning to data engineering, analytics, and automation.  
 
